@@ -22,16 +22,16 @@ function App() {
         {/* <Route exact path="/admin" element={<ListadoEmpleados/>}/>
         <Route exact path="/agregar" element={<AgregarEmpleado/>}/>
         <Route exact path="/editar/:id" element={<EditarEmpleados/>}/> */}
-        <Route exact path="/" element={<Listar/>}/>
-        <Route exact path="/acceder" element={<Acceder/>}/>
-        <Route exact path="/registrar" element={<Registrar/>}/>
-        <Route exact path="/admin" element={<ListadoEmpleados/>}/>
-        <Route exact path="/editar/:id" element={<EditarEmpleados/>}/>
-        <Route exact path="/Productos" element={<ListarProductos/>}/>
-        <Route exact path="/Productos/editar/:id" element={<EditarProductos/>}/>
-        <Route exact path="/ordenes" element={<ListarOrdenes/>}/>
-        <Route exact path="/carrito" element={<Carrito/>}/>
-        <Route exact path="/hacerOrden" element={<HacerOrden/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//" element={<Listar/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//acceder" element={<Acceder/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//registrar" element={<Registrar/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//admin" element={<ListadoEmpleados/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//editar/:id" element={<EditarEmpleados/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//Productos" element={<ListarProductos/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//Productos/editar/:id" element={<EditarProductos/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//ordenes" element={<ListarOrdenes/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//carrito" element={<Carrito/>}/>
+        <Route exact path="https://alexismora26.github.io/examen3f//hacerOrden" element={<HacerOrden/>}/>
 
 
 
